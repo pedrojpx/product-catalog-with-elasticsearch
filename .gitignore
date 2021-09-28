@@ -1,0 +1,39 @@
+HELP.md
+.gradle
+product-catalog/build/
+!product-catalog/gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+.metadata
+product-catalog.zip
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+produt-catalog/out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+product-catalog/nbproject/private/
+product-catalog/nbbuild/
+product-catalog/dist/
+product-catalog/nbdist/
+product-catalog/.nb-gradle/
+
+### VS Code ###
+product-catalog/.vscode/
