@@ -1,7 +1,9 @@
 HELP.md
 .gradle
 product-catalog/build/
+shopping-cart/build/
 !product-catalog/gradle/wrapper/gradle-wrapper.jar
+!shopping-cart/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
@@ -18,6 +20,7 @@ bin/
 !**/src/test/**/bin/
 .metadata
 product-catalog.zip
+config-server.zip
 
 ### IntelliJ IDEA ###
 .idea
