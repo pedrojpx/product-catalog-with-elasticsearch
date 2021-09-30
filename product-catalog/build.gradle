@@ -15,10 +15,8 @@ repositories {
 
 ext {
   set('springCloudVersion', "Hoxton.SR3")
+  set('elasticsearch.version', "7.5.2")
 }
-
-ext['elasticsearch.version'] = '7.5.2'
-
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-actuator'

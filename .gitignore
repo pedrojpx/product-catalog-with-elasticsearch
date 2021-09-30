@@ -3,9 +3,11 @@ HELP.md
 product-catalog/build/
 shopping-cart/build/
 config-server/build/
+service-discovery/build/
 !product-catalog/gradle/wrapper/gradle-wrapper.jar
 !shopping-cart/gradle/wrapper/gradle-wrapper.jar
 !config-server/gradle/wrapper/gradle-wrapper.jar
+!service-discovery/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
